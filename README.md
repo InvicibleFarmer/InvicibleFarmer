@@ -1,15 +1,15 @@
- I'm Invicible (@InvicibleOne)👋
+ I'm Charles James (@Invicible)👋
 
 <!--
 **Data Analyst | Testnet Contributor | Web3 Enthusiast**
 
-I'm passionate about transforming complex data into powerful insights — and exploring how data, AI, and blockchain shape the future of technology.  
+I'm passionate about transforming complex data into powerful insights and exploring how data, AI, and blockchain shape the future of technology.  
 
  🚀 About Me  
 - 🧩 1+ year of experience in **Data Analysis** using Excel, Power BI, SQL & Tableau  
-- 🧠 Active **Testnet Contributor** across top blockchain ecosystems (ZenChain, Vana, Monad, etc.)  
-- 🪙 DeFi & Airdrop Hunter — helping communities grow and earn  
-- 💡 Community Leader passionate about collaboration and innovation  
+- 🧠 Active **Testnet Contributor** across top blockchain ecosystems (Arc, Pharos, Vana, Monad, etc.)  
+- 🪙 DeFi & Airdrop Hunter, helping communities grow and earn  
+- 💡 Community Leader, I'm passionate about collaboration and innovation  
 
 
 
@@ -28,7 +28,7 @@ I'm passionate about transforming complex data into powerful insights — and ex
 
 
  🌍 Connect with Me  
-🐦 [X (Twitter)](https://x.com/InvicibleFarmer)  
+🐦 [X (Twitter)](https://x.com/InvicibleOne)  
 💼 [LinkedIn](https://linkedin.com/in/charliedegreat1)  
 📫 **Email:** [invicicblefarmer@gmail.com]
 
